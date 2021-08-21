@@ -8,6 +8,5 @@ then...<br>
 
 random(10)<br>
 
-GitHub: https://github.com/BADBOY671/Random-Password-pkg<br>
-
+<a href="https://www.npmjs.com/package/random-password-pkg">Link<br>
 bye 👋👋
