@@ -8,5 +8,5 @@ then...<br>
 
 random(10)<br>
 
-<a href="https://www.npmjs.com/package/random-password-pkg">Link<br>
+<a href="https://www.npmjs.com/package/random-password-pkg">Npm</a><br>
 bye 👋👋
